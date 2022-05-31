@@ -1,0 +1,14 @@
+Link para download do Git: https://git-scm.com/
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Como clonar um repositório do Github: 
+
+1 Copiar o link do repositório do Github.
+2 Iniciar o Git bash dentro da pasta onde vai salvar o repositório no seu computador.
+3 Usar o comando git clone e colar o link do repositório e dar enter.
+
+Como enviar novo arquivo para o Github:
+
+1 Usar o comando git add . pressionar enter.
+2 Usar o comando git commit -m fazer o comentário do arquivo entre ""
+3 Usar o comando git push origin main e pressionar enter.
